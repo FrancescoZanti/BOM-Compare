@@ -5,7 +5,7 @@ A simple BOM comparator developed in .NET 8 and based on Adventure Works (MS SQL
 Logic inside [BOM-Compare.sql](https://github.com/FrancescoZanti/BOM-Compare/blob/master/BOM-Compare-SP.sql), use podman / docker to speed up your test enviroment: 
 
 ```` docker
-docker push francescozanti/mssql-aw2022:latest
+docker pull francescozanti/mssql-aw2022:latest
 ````
 
 ![immagine](https://github.com/user-attachments/assets/73481780-1784-4a6f-ab72-54bec9a9d85f)
